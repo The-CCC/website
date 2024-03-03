@@ -1,6 +1,6 @@
 baseURL = 'https://the-ccc.github.io/'
 languageCode = 'en-us'
-title = 'CCC landing site'
+title = 'Coding Conundrums Community'
 theme = 'paper'
 [params]
   # color style
